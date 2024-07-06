@@ -39,3 +39,9 @@ npm run build
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
 
 
+## Demo Video
+
+<video controls>
+  <source src="LinkedIn.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
