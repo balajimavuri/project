@@ -41,7 +41,6 @@ This should create a production bundle for your extension, ready to be zipped an
 
 ## Demo Video
 
-<video controls>
-  <source src="LinkedIn.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/balajimavuri/project/assets/105409831/7304c72f-d7a8-4703-b408-0de9b03653b0
+
